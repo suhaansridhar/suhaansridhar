@@ -4,10 +4,10 @@ Hi, I am Suhaan.
 - 👯 I’m looking to collaborate on standalone projects.
 - 🤔 I’m looking for help with development of skills such as in ReactJs, Data Structures and Algorithms. 
 - 💬 Ask me about (will update it soon)
-- 📫 How to reach me: suhaansridhar022@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 24 y/o. :| 
 
 <!--
 **suhaansridhar/suhaansridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: suhaansridhar022@gmail.com
 -->
