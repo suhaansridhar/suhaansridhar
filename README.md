@@ -1,16 +1,13 @@
 Hi, I am Suhaan.
-
-<!--
-**suhaansridhar/suhaansridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating interative applications using python. 
-- 🌱 I’m currently learning data structures in python.
+- 🔭 I’m currently working on creating interative applications using JavaScript. 
+- 🌱 I’m currently learning data structures in JavaScript.
 - 👯 I’m looking to collaborate on standalone projects.
-- 🤔 I’m looking for help with development of skills. 
+- 🤔 I’m looking for help with development of skills such as in ReactJs, Data Structures and Algorithms. 
 - 💬 Ask me about (will update it soon)
 - 📫 How to reach me: suhaansridhar022@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 23 y/o. :| 
+- ⚡ Fun fact: 24 y/o. :| 
+
+<!--
+**suhaansridhar/suhaansridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
