@@ -5,7 +5,7 @@ Hi, I am Suhaan.
 - 🤔 I’m looking for help with development of skills such as in ReactJs, Data Structures and Algorithms. 
 - 💬 Ask me about (will update it soon)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 24 y/o. :| 
+- ⚡ Fun fact: 25 y/o. :| 
 
 <!--
 **suhaansridhar/suhaansridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
